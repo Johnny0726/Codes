@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1398161620 source:e:\c&cpp language codes\class inheritance\main.cpp
+	"tabtenn1.h"
+	<iostream>
+
+1398161653 e:\c&cpp language codes\class inheritance\tabtenn1.h
+	<string>
+

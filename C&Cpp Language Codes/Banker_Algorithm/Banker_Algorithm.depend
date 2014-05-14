@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1400080460 source:e:\c&cpp language codes\banker_algorithm\main.c
+	<stdio.h>
+	<stdlib.h>
+
